@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CelsiusAFarenheit</string>
+    <string name="convertC_button">Convert C° to F°</string>
+    <string name="convertF_button">Convert F° to C°</string>
+    <string name="title_text">Temperature Converter</string>
+    <string name="conversionCelsius"> </string>
+</resources>
